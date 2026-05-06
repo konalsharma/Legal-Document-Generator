@@ -20,7 +20,7 @@ $prompt = "You are a legal assistant. Here is the legal summary:\n\n"
         . "Answer clearly and accurately.";
 
 // 🔐 Replace with your actual OpenAI key
-$apiKey = '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';
+$apiKey = 'YOUR_API_KEY';
 
 $ch = curl_init('https://api.openai.com/v1/chat/completions');
 curl_setopt_array($ch, [
