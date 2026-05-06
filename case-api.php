@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json');
 
-$openai_api_key = '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'; // KEEP THIS SAFE!
+$openai_api_key = 'YOUR_API_KEY'; // KEEP THIS SAFE!
 
 $data = json_decode(file_get_contents('php://input'), true);
 $inputText = $data['text'] ?? '';
