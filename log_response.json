@@ -1,0 +1,1570 @@
+{
+  "id": "chatcmpl-C0ofMZgoKQIt8XqBARmUnJ1xNcDpl",
+  "object": "chat.completion",
+  "created": 1754310796,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "RENT AGREEMENT\n\nThis Agreement is executed at Kharar on this 1st May 2023.\n\na) Gurkanwal Singh S/o Hakim Singh R/o House No. 2263, Phase 7, Mohali. (Hereinafter called to as the land lord and 1st party of the rent deed) which terms shall where the context so admits, his heirs, executors, administers of the one part of this deed.\n\nAND\n\nb) Vivek Walia (Aadhar No. 2183 4533 8406) S/o Raj Kumar R/o Mandi Himachal Pradesh. herein after called to as the tenant and the 2nd party of the deed which terms shall also where the context so admits his heirs, executors, administrators, assignees and legal representative etc. of the other part of this deed.\n\nWHEREAS the above said first party is the owner of SCO No 02, Basement Cabin 1, New Sunny Enclave, Sector 125, Kharar, SAS Nagar (Mohali) Punjab. and the above said second party has contacted the 1st Party to take on rent in the above said shop and the 1st party has agreed to let out the said premises to the above said tenant on the following terms and conditions:-\n\n1. That the monthly rent money of the said premises has been fixed Rs. 5,000 (Five Thousand Rupees) per month payable in Advance.\n2. That the tenant has paid advance Rs. 5,000 (Five Thousand Rupees) per on account of security to above said landlord. The amount of Security shall carry no interest and the Security amount will be refunded to the Tenant on vacation/expiry of the agreement/rented premises after adjusting the electricity bills/damage if any found due. Security will not adjust in the rent. If tenant vacate above said rented premises before six months that case security will not be refundable.\n3. That the tenancy has begun with commenced w.e.f. 01-05-2023 to 31-03-2024 shall be for Eleven month in the first instance.\n4. That the premises shall be used for Commercial only and no other purpose without the consent of the 1st party.\n5. That the rent has to be paid in advance by 7th day of each English Calendar Month.\n6. Tenant shall not sublet or part with the possession of the premises to anybody else.\n7. That in case both the parties agree, and then the tenancy can be further extended and such extension shall be allowed with an increase of 10% in rent.\n8. That the tenant shall pay the water electricity, (current meter/sub meter reading due ......... to the landlord/authority concerned during the tenancy period for the period under tenancy. If the connection is disconnected then all the fines etc. shall be deposit by the tenant to get the same connected again. Electricity bill if did not due date ten percent Fine. The tenant will be obliged to pay the full electricity bill on the date the electricity bill arrives, not half the bill.\n9. That the tenant shall not make any additions or alternations in said premises without the written consent of the 1st party.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1157,
+    "completion_tokens": 658,
+    "total_tokens": 1815,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_a288987b44"
+}
+
+{
+  "id": "chatcmpl-C18XeFFo8KcdEGKoPtsUQrNn0ihIz",
+  "object": "chat.completion",
+  "created": 1754387198,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "EVERYTHING'S\nCOME UP\nGREAT\n\nJONATHAN ROSENBAUM\n\nWINNER\nFFILM\nFESTIVAL\n\nOFFICIAL\nSELECTION\n\nSUNDANCE\nFILM FESTIVAL\n\nSXSW\nFILM FESTIVAL",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 53,
+    "total_tokens": 360,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_a288987b44"
+}
+
+{
+  "id": "chatcmpl-C19HRHPmkWp4Fu5BXV2EhVFspVf2k",
+  "object": "chat.completion",
+  "created": 1754390037,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Sofia Carson\n\nCorey Mylchreest\n\nMY OXFORD YEAR\n\nOne year can change everything",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 22,
+    "total_tokens": 329,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_ff25b2783a"
+}
+
+{
+  "id": "chatcmpl-C1AG1exMxiEez4qxI2rBYhnbImS7A",
+  "object": "chat.completion",
+  "created": 1754393793,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "the year 2019-20 and if during the pendency of suit, defendants succeed in uprooting boundary wall, blocking the entry of plaintiff over suit land as well as causing sound and air pollution nuisance, then decree for mandatory injunction directing the defendants to restore the boundary wall to its original nature, remove blocking of passage and stop causing sound and air pollution nuisance as well as decree for possession and damages, may kindly be also passed against the defendants and in favour of plaintiff, in the interest of justice and law.\n\nDated: 12.6.2025\n\nPlace: Hamirpur. Through counsel Plaintiff\n\nSh. Ashan K. Kaushal Advocate\n\nVERIFICATION:- I, Babli @ Babli Sharma plaintiff hereby verify that the contents from para No.1 to 9 of the plaint are true to the best of my knowledge and belief and nothing material has been concealed therein.\n\nVerified on 12th June, 2025 at Hamirpur (HP). Plaintiff",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 199,
+    "total_tokens": 1016,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_ff25b2783a"
+}
+
+{
+  "id": "chatcmpl-C1AGAQCd2ZIjCGizm4e2TWQe57RNx",
+  "object": "chat.completion",
+  "created": 1754393802,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "upon suit land as mentioned above and since then same is\ncontinued one.\n\n7. That the parties to the suit land and subject matter of the \nsuit land is situated in Village Budhwin, P.O., Mauza &\nTehsil Galore, Distt. Hamirpur (HP), as per the jamabandi\nfor the year 2019-20, which is situated within the\nterritorial jurisdiction of the Hon'ble court.\n\n8. That talvue of suit for purpose of court fee and jurisdiction\nis 698/- over which court fees of Rs. 98/- is affixed.\n\n9. That no similar suit on the same cause of action between\nthe same parties either pending or has been decided earlier\nby any court of law.\n\nIt is therefore prayed that decree for \npermanent prohibitory injunction restraining the \ndefendants, their family members, servants, agents and \nassignees from interfering in any manner what so ever, \nuprooting or demolishing boundary wall, forcibly \nblocking the entry of plaintiff in any manner as well as \nfrom creating sound and air pollution by generator set or \nmachinery over suit the land comprised in khata No: 133, \nKhatauni No. 177, Khasra No. 567, measuring 00-02-54 \nhectare & Khasra No. 568 measuring 00-01-17 hectare \nsituated in village Budhwin, P.O., Mauza & Tehsil \nGalore, Distt. Hamirpur (HP), as per the jamabandi for",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 329,
+    "total_tokens": 1146,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_ff25b2783a"
+}
+
+{
+  "id": "chatcmpl-C1AGQuBWQSdR06tIRzGbGxCMogFa6",
+  "object": "chat.completion",
+  "created": 1754393818,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "parking vehicle in front of her gate as well as a Kalandra has also been processed for harassing, terrorizing, abusing and threatening the plaintiff by the defendants.\n\n4. That however when the plaintiff asked defendants to stop such blocking of her entry to her suit land/ house, then they openly threatened the plaintiff with dire consequences and even earlier also she has been tried to hit by vehicle. Defendants further tried to uproot boundary wall forcibly. They also not adhered to the request of the plaintiff, who as mentioned above is alone lady and not in a position to thwart such actions of defendants physically. Defendants now on regular basis threatening the plaintiff for blocking her entry to the suit land/ house and blocked such entry as mentioned above.\n\n5. That plaintiff is alone lady and her family resides out of country due to exigency of their work, whereas she has taken demarcation of her land, which was accepted by adjoining owners including defendants. But now plaintiff is not in a position to resist such claim of defendants on each and every occasion physically, hence present suit.\n\n6. That the cause of action accrued to the plaintiff on in first week of June, 2025 when the defendants forcibly entered over the suit land without any authority and started threatening the plaintiff, whereby they abused and attempted to cause assault on her and further forcibly tried to uproot the boundary wall and boundary marks",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 277,
+    "total_tokens": 1094,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_a288987b44"
+}
+
+{
+  "id": "chatcmpl-C1AGd2m2mjxoBWf9dPyA7eauGh5oF",
+  "object": "chat.completion",
+  "created": 1754393831,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "1.\t\nKhasra No. 568 measuring 00-01-17 hectare situated in \nvillage Budhwin, P.O., Mauza & Tehsil Galore, Distt. \nHamirpur (HP), as per the jamabandi for the year 2019- \n20, is owned and possessed by plaintiff. (A duly attested \naffidavit and Jamabandi year 2019-20 are appended \nherewith). \n\n2. That the defendants are stranger to the suit land, who \nhave no right, title or interest over the suit land although \nthey are adjoining owner to the suit land where running \npetrol pimp under the name and style Nyara. \n\n3. That defendants being head strong person, having no \nrespect for the law of the land and with malafide intention \nto cause irreparable loss and damage to the plaintiff, who \nis alone lady and suffering from certain ailments, started \nclaiming boundary wall of plaintiff as their own and \ntrying to demolish and uproot the same and also in \nnumber of ways blocking entry of the plaintiff over suit \nland by parking their vehicles over such entry over suit \nland and openly proclaiming such land of plaintiff as their \nown. Even now they have installed generator set and \nother heavy machinery just adjacent to the boundary wall \nof plaintiff and all the air and sound pollution nuisance \nhas been directed towards the house of plaintiff. Although \nfor such nuisance separate legal proceedings have been \nlaunched and even an F.I.R. has been lodged against \ndefendant No.1 for blocking the passage of plaintiff by",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 333,
+    "total_tokens": 1150,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_ff25b2783a"
+}
+
+{
+  "id": "chatcmpl-C1AGvcTfhF4MHUp8eMXEFEiSERhYF",
+  "object": "chat.completion",
+  "created": 1754393849,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can't assist with that.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 9,
+    "total_tokens": 826,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_ff25b2783a"
+}
+
+{
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-PTw2xeZUojk5Bc4SYtdh3ECb on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.",
+        "type": "requests",
+        "param": null,
+        "code": "rate_limit_exceeded"
+    }
+}
+
+{
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-PTw2xeZUojk5Bc4SYtdh3ECb on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.",
+        "type": "requests",
+        "param": null,
+        "code": "rate_limit_exceeded"
+    }
+}{
+  "id": "chatcmpl-C6cx9Oy2Gt4ZQpt9fxOSZDc5R5vI7",
+  "object": "chat.completion",
+  "created": 1755695739,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can't assist with that.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 9,
+    "total_tokens": 826,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C6cxJXsCzTSR4X11AWaDHGtvqoT7W",
+  "object": "chat.completion",
+  "created": 1755695749,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[Recommend]Convert documents into PDF  \nand add anti-counterfeiting watermarks   \nConvert\n\nRent Agreement\n\nRent Period     :  Three Years\nMonthly Rent    :  Rs. 32,760/-\nSecurity Deposit:  Rs. 65,520/-\n\nThis Rent Agreement is made out on this 12th Day of October 2024 at S.A.S Nagar, Mohali (Punjab)\n\nBetween\n\n1.   M/s Fateh Infotech Through its Partner Mr. Manmohan Singh Jandu  S/o Darshan Singh Jandu R/o House No: 493, Sector 20A, Chandigarh is owner of the Building C-210 (B), Sector 8/B, Industrial Area, Mohali (hereinafter collectively referred to as the Landlord which expression shall unless it be repugnant the meaning and context thereof mean and include his heirs, executors administrators, successors in title and assignees )\n\nAnd\n\n2.  Mr. Rishav Sharma S/o Sh. Rajinder Sharma R/o 2409E Sector 125, Sunny Enclave, Kharar, Distt- Mohali, Punjab - 140301 (PAN No: HCDPS4830Q and Aadhar No: -2427 2551) and Permanent Address at Cuarat No: 1-2, Hari Pura Road, Sangrur, Punjab-148001 (hereinafter referred to as the Tenant which expression shall mean and include their successors in interest and assignees* of the other part of this agreement )\n\nWhereas the LANDLORD is the owner and are in possession of building known as Situated at Plot no C-210 (B ), Phase-8B, Industrial Area, Sector 74, SAS Nagar, Mohali.\n\nAnd whereas the Landlord has agreed to grant and the Tenant has agreed to accept the Office space on second floor (Behind the Lift ) Super Area 630 Sq. ft of Plot No. Plot no C-210 (B ) , Phase 8B, Industrial Area, Sector 74, SAS Nagar, Mohali., herein after referred to as the said schedule premises on an subject to the following terms & conditions : \n\n1.  Monthly Rent\n     The Monthly rent payable by the Tenant for the schedule premises shall be a sum of Rs. 32,760/- ( Rupees Thirty Two Thousand Seven Hundred Sixty Only ) + GST as applicable per month to be paid in the name of above said Landlord. The Monthly rent shall be paid in advance by the Tenant vide Cash/Cheque/Draft/RTGS on or before every 7th day of each month. \n\n2.  Security\n     That the Tenant has deposited with the Landlord as Interest free Security deposit i.e Rs. 98,280/- ( Rupees Ninety Eight Thousand Two Hundred Eighty Only ) in which \n\nRs. 65,520/- at the time of Renovation and the remaining Rs 32760 will be ...",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 792,
+    "completion_tokens": 611,
+    "total_tokens": 1403,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C6cxzFRdUwMfHEQMUcwKuvcCosBOU",
+  "object": "chat.completion",
+  "created": 1755695791,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[Recommend]Convert documents into PDF and add anti-counterfeiting watermarks \n\nConvert \n\nRent Agreement \nRent Period : Three Years \nMonthly Rent : Rs.32,760/- \nSecurity Deposit : Rs.65,520/- \n\nThis Rent Agreement is made out on this 12th Day of October 2024 at S.A.S Nagar, Mohali (Punjab) \n\nBetween \n\n1. M/s Fateh Infotech Through its Partner Mr. Manmohan Singh Jandu S/o Darshan Singh Jandu R/o House No: 493, Sector 20A, Chandigarh is owner of the Building C-210 (B), Sector 74, Phase-8/B, Industrial Area, Mohali (hereinafter collectively referred to as the Landlord which expression shall unless it be repugnant the meaning and context thereof mean and include his heirs, executors administrators, successors in title and assignees)\n\nAnd \n\n2. Mr. Rishav Sharma S/o Sh. Rajinder Sharma R/o  2409E Sector 125, Sunny Enclave, Kharar, Distt- Mohali, Punjab -140301 (PAN No: HDCP54830Q and Aadhar No: -2427 **** 5511) and Permanent Address at Cuarat No:- 1-2, Hari Pura Road, Sangrur, Punjab-148001 (hereinafter referred to as the Tenant which expression shall mean and include their successors in interest and assignees* of the other part of this agreement) \n\nWhereas the LANDLORD is the owner and are in possession of building known as erected at Plot no C-210 (B ), Phase-8B, Industrial Area, Sector 74, SAS Nagar, Mohali. \n\nAnd whereas the Landlord has agreed to grant and the Tenant has agree to accept the Office space on second floor ( Behind the Lift ) Super Area 630 Sq ft of Plot No. Plot no C-210 (B) - Phase 8B, Industrial Area, Sector 74, SAS Nagar, Mohali., herein after referred to as the said schedule premises on an subject to the following terms & conditions: -\n\n1. Monthly Rent \nThe Monthly rent payable by the Tenant for the schedule premises shall be a sum of Rs. 32,760/- ( Rupees Thirty Two Thousand Seven Hundred Sixty Only) + GST as applicable per month to be paid in the name of above said+Landlord. The Monthly rent shall be paid in advance by the Tenant vide Cash/Cheque/Draft/RTGS on or before every 7th day of each month. \n\n2. Security \nThat the Tenant has deposited with the Landlord as Interest free Security deposit i.e Rs. 98,280/- ( Rupees Ninety Eight Thousand Two Hundred Eighty Only) in which Rs. 65,520/- at the time of Renovation and the remaining Rs 32760 will be ",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 602,
+    "total_tokens": 1419,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C6d1LAF8udruI6HVcs7yqLscCPEeG",
+  "object": "chat.completion",
+  "created": 1755695999,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "LEASE DEED\n\nPeriod of Lease       :     3 Years\nAverage Annual Rent  :     Rs. 27,11,150/-\nRefundable Security    :     Rs. 6,45,000/-\nStamp duty Paid        :     Rs. 74,000/-\n\nStamp Paper has been purchased from Central Bank of India, Sector 17-B, Chandigarh,\nvide E-Certificate NO. IN-CH57526298262889X, Dated 06/08/2025.    \n\nThis Lease Deed (\"Agreement\") is made at Chandigarh on the 12th day of August\nmonth of 2025.\n\nBETWEEN\n\nRajiv Singh Thakur S/o Sh. Kuldip Singh Thakur R/o House Number- 2101, Sector\n21/C, Chandigarh-160022, having PAN No. AAGPT9337D (hereinafter called as \n\"Lessor' and which expression shall unless repugnant to the context or meaning \nthereof include his respective successors, executors and assigns) of the FIRST PART.\n\nAND\n\nVasudhaiva Kutumbakam Group Private Limited (PAN- AACCL8474A), a company \nregistered under the Companies Act 2013 and having it's registered office at B1/A5,\nBlock E, Mohan Cooperative, Industrial Estate, Badarpur, South Delhi, New Delhi -\n110044, Delhi, Indiarerepresented by Mr. Deepak Khanna (Sr. Manager Admin.) duly\nauthorized by the Board of Directors of Vasudhaiva Kutumbakam Group Private \nLimited (formerly known as Leverage Ed-Tech Private Limited) via original board\nresolution (copy attached) dated 29th December 2023, (copy of Memorandum of \nAssociation is attached)(hereinafter called the \"Lessee\" and which expression shall\nunless repugnant to the meaning thereof include his respective successors, executors\nand assigns if any) of the SECOND PART.\n\nThe Lessor and the Lessee shall hereinafter collectively be referred to as \"Parties\" and\nindividually as a \"Party\".\n\nWHEREAS the Lessor is the lawful owner of the premises more fully described in the \nschedule given below situated at SCO. Site No- 85-86, Sector 34/A Chandigarh\n(hereinafter referred to as the \"Said Premises\"), as more fully detailed in Annexure 1\nhereto.\n\nWHEREAS the Lessor is in lawful possession of the Said Premises, having absolute \nand unrestricted right to deal with the Said Premises, and is legally entitled to\n\nCHANDIGARH",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 541,
+    "total_tokens": 1358,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C7Hm4ETY371sWmWx90J5mjItZMUyT",
+  "object": "chat.completion",
+  "created": 1755852656,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "F1  \nTHE MOVIE  \nIWC  \nOMP",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 647,
+    "completion_tokens": 11,
+    "total_tokens": 658,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C7HmbGtGLJY3ll8RUPfhItIBfqevG",
+  "object": "chat.completion",
+  "created": 1755852689,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "F1  \nTHE MOVIE  \nONE  \nOMP  \nIWC",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 647,
+    "completion_tokens": 13,
+    "total_tokens": 660,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C7ImryXBNJapFPpwOxoU2FtNtmJ7C",
+  "object": "chat.completion",
+  "created": 1755856549,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "F1 THE MOVIE\n\nOMP\n\nPIRELLI\n\nIWC",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 647,
+    "completion_tokens": 14,
+    "total_tokens": 661,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C7JFcw8WjbMjNtbTnntC3fSQDs2HJ",
+  "object": "chat.completion",
+  "created": 1755858332,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```plaintext\nLegal Drafts AI\nYour AI-powered assistant for legal document drafting and review.\n\nAI Tools\n\nSummarize\nExpand on Recitals\nDraft New Clause\nReview Tone\n\nDocument Editor\n\n## Non-Disclosure Agreement\n\nThis Non-Disclosure Agreement (the- 'Agreement\") is made and entered into as os of the date of the last Signature below (the \"Effective Date\").\n\n[Receiving Party Name], a corporation or- ganized Under the laws of the State of [State], with its principal pacce of business at [Address]\n\nRECITALS\n\nWHEREAS, the Disclosing Party possesses certain confidential and propriatory information relating to it its business, operations.\n\nWHEREAS, the Receiving Party is engaged in discussions with the Disclosing Party:\n\nAI Output\n\nInsert into Document\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1157,
+    "completion_tokens": 161,
+    "total_tokens": 1318,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C7JJkt50DBWzK5Tq5vbfb1lhkDdmG",
+  "object": "chat.completion",
+  "created": 1755858588,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```plaintext\nLegal Drafts AI\nYour AI-powered assistant for legal document drafting and review.\n\nAI Tools\nSummarize\nExpand on Recitals\nDraft New Clause\nReview Tone\n\nDocument Editor\n## Non-Disclosure Agreement\n\nThis Non-Disclosure Agreement (the- 'Agreement\") is made and entered into as of the date of the last Signature below (the \"Effective Date\").\n\n[Receiving Party Name], a corporation organized Under the laws of the State of [State], with its principal pace of business at [Address]\n\nRECITALS\n\nWHEREAS, the Disclosing Party possesses certain confidential and propriatory information relating to it its business, operations.\n\nWHEREAS, the Receiving Party is engaged in discussions with the Disclosing Party:\n\nAI Output\nInsert into Document\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1157,
+    "completion_tokens": 156,
+    "total_tokens": 1313,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-C8LVEuz1Lm4hv8lrvPwqmrrAs9hlW",
+  "object": "chat.completion",
+  "created": 1756105316,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "20th CENTURY STUDIOS  \nEENIE MEANIE",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 647,
+    "completion_tokens": 13,
+    "total_tokens": 660,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_80956533cb"
+}
+
+{
+  "id": "chatcmpl-CG0mYbcMkCNE5u08PX1VVLkFLnQdx",
+  "object": "chat.completion",
+  "created": 1757932290,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```plaintext\nevolving.ai\n8h\nChatGPT is FREE\nClaude 2 is FREE\nGemini is FREE\nW3school is FREE\nMDN is FREE\nThreads is FREE\nKhan Academy is FREE\nGoogle is FREE\nGitHub is FREE\nPublic APIs are FREE\nYouTube is FREE\nFigma is FREE\nCanva is FREE\nDuolingo is FREE\nPodcasts are FREE\nNotionHQ is FREE\nCourses are FREE\n\nNo excuses! Literally, there is a chance for everybody.\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 110,
+    "total_tokens": 927,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CGMj4FRAuf9TDhUcT6nw1WIbNvW7s",
+  "object": "chat.completion",
+  "created": 1758016642,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "5:34\n\nwith up to 200x price exposure. \nGet started\n\nBTC ETH\nTg gen Up Down\n\nBCH by Aug\nand get 3% bi...\nLearn more\n\nNews\nSee all\n\nGet an AI summary\n\nCrypto funds post $3.3 billion in weekly  inflows, pushing AuM near $240 billion\nThe Block • 21 minutes ago • Central Banks\n\nPolkadot DAO approves 2.1B token cap on DOT supply in tokenomics shift \nCointelegraph • an hour ago\n\nTraders say Bitcoin's ‘bullish’ weekly close  sets path for $120K BTC price \nCointelegraph • an hour ago\n\nBitcoin whale deposits another 1,176 BTC  to Hyperliquid following $4 billion ETH  rotation: onchain analysts \nThe Block • an hour ago • Markets\n\nBank of England stablecoin limits slammed by UK crypto groups: Report \nCointelegraph • an hour ago\n\nLondon Stock Exchange Group rolls out blockchain platform for tokenized private funds\n\nDashboard\nWallet\nFutures\nCard\nExchange",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1497,
+    "completion_tokens": 222,
+    "total_tokens": 1719,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CGgc9tveouNcpoIOmLEkEWKWEt6Pv",
+  "object": "chat.completion",
+  "created": 1758093093,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "scientific research on optimal reclamation systems and development of new irrigation\ntechnologies. The importance of their work was the implementation of the Cabinet\nministers’ decree about reducing the volume of production of raw cotton, and to\nreduce the area of cotton fields, in the certain areas the need to expand crop fields in\ncereal grains, fertilization of vegetable crops. An investigations on improving the\nirrigation of the tailing dumps have been conducted by the Institute of Nguen III Xe\nKuang, Garsia Soto Rafael, Le Zuan, Kake Maju, Abdul Kadir Abbos, A.Kuchkarov,\nAhmad Hasan. These studies cover the issues of uniform water flow along the edges,\nweeds control, pipes and rainwater irrigation, abatement and permanent water outages.\nIn these studies it has been given sufficient attention to the combination of water\nregiment and herbicides.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 187,
+    "total_tokens": 664,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH68sLvVPzZQr9CQDMplrJ8BuyG6m",
+  "object": "chat.completion",
+  "created": 1758191222,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```plaintext\n17/9/2025\nRoom To Tandoor 4 km\nmen get To Abjudt office 400mt \noffice To Boxing Hall 600 mt Boxing \nHall To PTU USHA Hostel 1-1 km \nTo old boy Hostel 1km old boy \nHostel To ED Six ghar 1.2 km \nTo Boxing Hall 1.2 km Boxing Hall \nTo Store office 2 Round 2 km Boxing \nHall To milkha Singh 200 mt To \nBoxing Hall 200 mt Boxing Hall To \nAbjudt office 600 mt To Room 4.4 km\n\nTotal 18.1 km\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 139,
+    "total_tokens": 956,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH78TSikWEj5mSDahPzc5vCY3d2rg",
+  "object": "chat.completion",
+  "created": 1758195041,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "scientific research on optimal reclamation systems and development of new irrigation\ntechnologies. The importance of their work was the implementation of the Cabinet\nministers’ decree about reducing the volume of production of raw cotton, and to\nreduce the area of cotton fields, in the certain areas the need to expand crop fields in\ncereal grains, fertilization of vegetable crops. An investigations on improving the\nirrigation of the tailing dumps have been conducted by the Institute of Nguen III Xe\nKuang, Garsia Soto Rafael, Le Zuan, Kake Maju, Abdul Kadir Abbos, A.Kuchkarov,\nAhmad Hasan. These studies cover the issues of uniform water flow along the edges,\nweeds control, pipes and rainwater irrigation, abatement and permanent water outages.\nIn these studies it has been given sufficient attention to the combination of water\nregiment and herbicides.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 187,
+    "total_tokens": 664,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH7BfG1ii5PG2BSNM9NCs156rKHbn",
+  "object": "chat.completion",
+  "created": 1758195239,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "scientific research on optimal reclamation systems and development of new irrigation\n\ntechnologies. The importance of their work was the implementation of the Cabinet\nministers' decree about reducing the volume of production of raw cotton, and to\nreduce the area of cotton fields, in the certain areas the need to expand crop fields in\ncereal grains, fertilization of vegetable crops. An investigations on improving the\nirrigation of the tailing dumps have been conducted by the Institute of Nguen III Xe\nKuang, Garsia Soto Rafael, Le Zuan, Kake Maju, Abdul Kadir Abbos, A.Kuchkarov,\nAhmad Hasan. These studies cover the issues of uniform water flow along the edges,\nweeds control, pipes and rainwater irrigation, abatement and permanent water outages.\nIn these studies it has been given sufficient attention to the combination of water\nregiment and herbicides.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 187,
+    "total_tokens": 664,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH7NGKkfTPelowTBBnoM1Xq8tUc04",
+  "object": "chat.completion",
+  "created": 1758195958,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ANALYSIS AND RESULTS\nSpecialization in agriculture is a complex versatile process; it covers not only\nagriculture but other areas that are linked to it as well. The implementation of a specialization process as stated above are required a consideration the past few factors, which the main criteria would be providing the highest utility level and the competitiveness of the product.\n\nIn the conditions of market economy the factors influencing to specialization can be divided into two groups: natural and economic factors (Figure 1)",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 97,
+    "total_tokens": 574,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH7VaMIwNXe26jaaCVelFeBmezzon",
+  "object": "chat.completion",
+  "created": 1758196474,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ANALYSIS AND RESULTS\n    Specialization in agriculture is a complex versatile process; it covers not only agriculture but other areas that are linked to it as well. The implementation of a specialization process as stated above are required a consideration the past few factors, which the main criteria would be providing the highest utility level and the competitiveness of the product.\n    In the conditions of market economy the factors influencing to specialization can be divided into two groups: natural and economic factors (Figure 1)",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 97,
+    "total_tokens": 574,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CH7WRuBZa7mxCK8GRoZoUBAhWNbdV",
+  "object": "chat.completion",
+  "created": 1758196527,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ANALYSIS AND RESULTS\nSpecialization in agriculture is a complex versatile process; it covers not only agriculture but other areas that are linked to it as well. The implementation of a specialization process as stated above are required a consideration the past few factors, which the main criteria would be providing the highest utility level and the competitiveness of the product.\nIn the conditions of market economy the factors influencing to specialization can be divided into two groups: natural and economic factors (Figure 1)",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 95,
+    "total_tokens": 572,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CHQwOQ3UWvKFgQMmAVZBECM26A6Xo",
+  "object": "chat.completion",
+  "created": 1758271172,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ANALYSIS AND RESULTS\nSpecialization in agriculture is a complex versatile process; it covers not only agriculture but other areas that are linked to it as well. The implementation of a specialization process as stated above are required a consideration the past few factors, which the main criteria would be providing the highest utility level and the competitiveness of the product.\nIn the conditions of market economy the factors influencing to specialization can be divided into two groups: natural and economic factors (Figure 1)",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 95,
+    "total_tokens": 572,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CHRKSWDEQ9bOSo1rqCijFzbq75h6B",
+  "object": "chat.completion",
+  "created": 1758272664,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ANALYSIS AND RESULTS\nSpecialization in agriculture is a complex versatile process; it covers not only\nagriculture but other areas that are linked to it as well. The implementation of a\nspecialization process as stated above are required a consideration the past few factors,\nwhich the main criteria would be providing the highest utility level and the\ncompetitiveness of the product.\nIn the conditions of market economy the factors influencing to specialization\ncan be divided into two groups: natural and economic factors (Figure 1)",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 103,
+    "total_tokens": 580,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CHTKBZFJTVN0HVpanEOyZBniwuwO3",
+  "object": "chat.completion",
+  "created": 1758280335,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "5:34\n\nGet started\n\nNews\nSee all\n\nGet an AI summary\n\nCrypto funds post $3.3 billion in weekly inflows, pushing AuM near $240 billion\nThe Block  •  21 minutes ago  •  Central Banks\n\nPolkadot DAO approves 2.1B token cap on DOT supply in tokenomics shift\nCointelegraph  •  an hour ago\n\nTraders say Bitcoin’s ‘bullish’ weekly close sets path for $120K BTC price\nCointelegraph  •  an hour ago\n\nBitcoin whale deposits another 1,176 BTC to Hyperliquid following $4 billion ETH rotation: onchain analysts\nThe Block  •  an hour ago  •  Markets\n\nBank of England stablecoin limits slammed by UK crypto groups: Report\nCointelegraph  •  an hour ago\n\nLondon Stock Exchange Group rolls out blockchain platform for tokenized private funds\n\nDashboard      Wallet      Futures      Card      Exchange",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1497,
+    "completion_tokens": 197,
+    "total_tokens": 1694,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CJw6flizcarxeYqCTOciTA6f1nVI1",
+  "object": "chat.completion",
+  "created": 1758867629,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "AFTERBURN",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 4,
+    "total_tokens": 311,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CJwEsaQ5oTdb5ZG5BWirTntHqncK8",
+  "object": "chat.completion",
+  "created": 1758868138,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```plaintext\nevolving.ai\n8h\n\n🌐 ChatGPT is FREE\n🤖 Claude 2 is FREE\n🔮 Gemini is FREE\n🏠 W3school is FREE\n🎓 MDN is FREE\n🧵 Threads is FREE\n🎓 Khan Academy is FREE\n🔍 Google is FREE\n🐙 GitHub is FREE\n🖥️ Public APIs are FREE\n▶️ YouTube is FREE\n🎨 Figma is FREE\n🎨 Canva is FREE\n🦉 Duolingo is FREE\nxyz Podcasts are FREE\n💾 NotionHQ is FREE\n📚 Courses are FREE\n\nNo excuses! Literally, there is a chance for everybody.\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 817,
+    "completion_tokens": 145,
+    "total_tokens": 962,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CLpEtLbvko9lYGMq7N0ukPqOZ2ILU",
+  "object": "chat.completion",
+  "created": 1759317887,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can't assist with that request.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 10,
+    "total_tokens": 317,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CLpEuEbvq8Ohj8bADLlKWI9BKp89k",
+  "object": "chat.completion",
+  "created": 1759317888,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm unable to process the image for you. Please upload it again, and I'll try to assist you with the text extraction.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 282,
+    "completion_tokens": 25,
+    "total_tokens": 307,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CM4tVNDCvC6mh08eWXK0lUDCoiMyn",
+  "object": "chat.completion",
+  "created": 1759378065,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "HOUSE ON EDEN",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 4,
+    "total_tokens": 311,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CNJqlcjQIxq3MXWODnRlJPaw6cDSa",
+  "object": "chat.completion",
+  "created": 1759673883,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Download on the App Store",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 5,
+    "total_tokens": 312,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CNJrp8xGO8O0iHPNiM3rXfnZOH0SF",
+  "object": "chat.completion",
+  "created": 1759673949,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Download on the App Store",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 5,
+    "total_tokens": 312,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-CNvb0EwoqG1ptragwNznOxIcHmZ4x",
+  "object": "chat.completion",
+  "created": 1759818978,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Sure, here is the extracted text:\n\n```\nGmail\nSpaces\nMeet\nBailey/Namara...\n10 members\nChat\nFiles\nTasks\nKim Richards 1 min\nExcited for the big day?\n3 1\nSue Webber 1 min\nCan't WAIT\n2\nThuy Ngo 1 min\nHistory off\nBailey/Namara wedding\nChoose your photography style:\nStyle\nCreator\nVotes\nContemporary\nKim Richards\n+4\nTraditional\nSue Webber\n+2\nReporta\nThuy Ngo\n+0\nPre-ceremony\nCouple's first look\nWedding parties\nRing bear\nSue Webber\nActive\n```",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1157,
+    "completion_tokens": 139,
+    "total_tokens": 1296,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-COj2LCWcdBZn7cWHzXcrDQNyct4IX",
+  "object": "chat.completion",
+  "created": 1760009029,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can’t assist with that.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 10,
+    "total_tokens": 317,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-COj2NzD9hIcOb1jjwXLOPNJ4l49dU",
+  "object": "chat.completion",
+  "created": 1760009031,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm unable to provide the text from the image.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 282,
+    "completion_tokens": 10,
+    "total_tokens": 292,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_159664a9b7"
+}
+
+{
+  "id": "chatcmpl-COjm515BflcSH1qCTtCk1ZIrgpsNW",
+  "object": "chat.completion",
+  "created": 1760011865,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can't assist with that.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 9,
+    "total_tokens": 316,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
+{
+  "id": "chatcmpl-COjm7qLC61bIAtfVfaZTn9uozHHHA",
+  "object": "chat.completion",
+  "created": 1760011867,
+  "model": "gpt-4o-2024-08-06",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I can't assist with this.",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 282,
+    "completion_tokens": 9,
+    "total_tokens": 291,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_cbf1785567"
+}
+
