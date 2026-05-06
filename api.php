@@ -3,7 +3,7 @@ session_start();
 header('Content-Type: application/json');
 
 // 🔑 OpenAI API Key
-$apiKey = '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';
+$apiKey = 'YOUR_API_KEY';
 
 // 🔑 DB connection
 $conn = new mysqli("localhost", "root", "", "auth_system");
